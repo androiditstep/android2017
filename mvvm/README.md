@@ -18,3 +18,9 @@ dependencies {
     ...
 }
 ```
+
+2. Update gradle.properties
+
+```properties
+android.databinding.enableV2=true
+```
